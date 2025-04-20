@@ -56,7 +56,7 @@ The chatbot is built with a powerful combination of modern tools:
 ### 1. **Clone the Repository:**
 
 ```bash
-git clone [https://github.com/yourusername/real-estate-assistant.git](https://github.com/Salampuriavv/Real-Estate-Agent.git)
+git clone https://github.com/Salampuriavv/Real-Estate-Agent.git
 cd real-estate-assistant
 ```
 
